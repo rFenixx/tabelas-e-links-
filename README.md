@@ -11,7 +11,7 @@
  <table border="2"> 
      <caption> 
         <strong> 
-         Tabela do national BrasaFutballClub 
+Tabela do national Brasa FutballClub 
         </strong> 
      </caption> 
      <table border="3"> 
