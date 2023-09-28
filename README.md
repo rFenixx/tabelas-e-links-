@@ -14,7 +14,7 @@
 Tabela do national Brasa FutballClub 
         </strong> 
      </caption> 
-     <table border="2"> 
+     <table border="7"> 
 <br
      <tr> 
          <td><strong>Clube</strong></td> 
