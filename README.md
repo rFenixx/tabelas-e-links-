@@ -56,7 +56,7 @@ Tabela do national Brasa FutballClub
          <td>37</td> 
          <td>9</td> 
      </tr> 
-     <footer> Riquelme O.  </footer> 
+     <footer> Riquelme O. Sales </footer> 
  </table> 
  </body> 
  </html>
