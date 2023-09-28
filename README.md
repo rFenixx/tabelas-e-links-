@@ -1,17 +1,16 @@
-# tabelas-e-links-
 <!DOCTYPE html> 
- <html lang="pt"> 
+ <html lang="pt-br"> 
  <head> 
      <meta charset="UTF-8"> 
      <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-     <title>taabela</title> 
+     <title>FUTEBOL BRASILEIRO</title> 
  </head> 
  <body> 
      <header> 
          <h1>Clubes Brasileiros</h1> 
          <h2>tabela focada na pontuação e no estado atual dos clubes brasileiros no campeonato brasileiro (tabela avaliada da 23° rodada do campeonato brasileiro) </h2> 
          <nav><a href="tabela.html">Tabela do Brasileirão</a> 
-         <h2>o assunto dessa página é analisar o status atual do top 7 da tabela do brasileirão e falar um pouco sobre cada um desses e também relacioná-los e comparar o desmpenho aos outros campeonatos nacionais (caso queira saber mais acesse o link) </h2> 
+         <h2>o assunto dessa página é analisar o status atual do top 6 da tabela do brasileirão e falar um pouco sobre cada um desses e também relacioná-los e comparar o desmpenho aos outros campeonatos nacionais (caso queira saber mais acesse o acesse os links abaixo) </h2> 
          <nav><a href="botafogo.html"><strong>BOTAFOGO</strong></a></nav>
 <br
          <nav><a href="palmeiras.html"><strong>PALMEIRAS</strong></a></nav>
