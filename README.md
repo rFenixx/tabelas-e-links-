@@ -12,15 +12,19 @@
          <h2>tabela focada na pontuação e no estado atual dos clubes brasileiros no campeonato brasileiro (tabela avaliada da 23° rodada do campeonato brasileiro) </h2> 
          <nav><a href="tabela.html">Tabela do Brasileirão</a> 
          <h2>o assunto dessa página é analisar o status atual do top 7 da tabela do brasileirão e falar um pouco sobre cada um desses e também relacioná-los e comparar o desmpenho aos outros campeonatos nacionais (caso queira saber mais acesse o link) </h2> 
-         <nav><a href="botafogo.html"><strong>STATUS</strong></a></nav> 
-         <nav><a href="palmeiras.html"><strong>STATUS</strong></a></nav> 
-         <nav><a href="bragantino.html"><strong>STATUS</strong></a></nav> 
-         <nav><a href="grêmio.html"><strong>STATUS</strong></a></nav> 
-         <nav><a href="flamengo.html"><strong>STATUS</strong></a></nav> 
-         <nav><a href="fortaleza.html"><strong>STATUS</strong></a></nav> 
-         <nav><a href="athparanaense.html"><strong>STATUS</strong></a></nav> 
-  
-     </header> 
+         <nav><a href="botafogo.html"><strong>BOTAFOGO</strong></a></nav>
+<br
+         <nav><a href="palmeiras.html"><strong>PALMEIRAS</strong></a></nav>
+<br
+         <nav><a href="bragantino.html"><strong>BRAGANTINO</strong></a></nav> 
+<br
+         <nav><a href="grêmio.html"><strong>GRÊMIO</strong></a></nav>
+<br 
+         <nav><a href="flamengo.html"><strong>FLAMENGO</strong></a></nav> 
+<br
+         <nav><a href="fortaleza.html"><strong>FORTALEZA</strong></a></nav> 
+<br
+         <nav><a href="athparanaense.html"><strong>ATH.PARANAENSE</strong></a></nav>  
  </body> 
  </html>
 <!DOCTYPE html> 
