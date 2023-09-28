@@ -7,7 +7,7 @@
      <title>Índice</title> 
  </head> 
  <body> 
- <header><h1>Trabalho de tabelas e links com o tema: futebol  Brasileiro</h1></header> 
+ <header><h3>Trabalho de tabelas e links com o tema: futebol  Brasileiro</h3></header> 
      <nav><a href="README.md">Assunto</a></nav> 
  <footer> Riquelme O. Sales</footer> 
  </body> 
