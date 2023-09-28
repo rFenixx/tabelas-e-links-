@@ -36,11 +36,6 @@ Tabela do national Brasa FutballClub
          <td>12</td> 
      </tr> 
      <tr> 
-          <td>FLUMINENSE</td> 
-         <td>41</td> 
-         <td>8</td> 
-     </tr> 
-     <tr> 
           <td>GRÊMIO</td> 
          <td>40</td> 
          <td>7</td> 
