@@ -1,4 +1,18 @@
 <!DOCTYPE html> 
+ <html lang="en"> 
+ <head> 
+     <meta charset="UTF-8"> 
+     <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+     <title>Índice</title> 
+ </head> 
+ <body> 
+ <header>Trabalho de tabelas e links com o tema: futebol  Brasileiro</header> 
+     <nav><a href="README.md"></a></nav> 
+ <footer> Riquelme O. Sales</footer> 
+ </body> 
+ </html>
+<!DOCTYPE html> 
  <html lang="pt-br"> 
  <head> 
      <meta charset="UTF-8"> 
